@@ -1,4 +1,4 @@
-# Handwriiting-Recognition
+# Handwriting-Recognition
 
 Model - https://drive.google.com/file/d/1NzfG3P5exScca6DWWZMdNnOIQ4I8W-hi/view?usp=sharing
 
